@@ -3,7 +3,9 @@
 ## About me
 
 
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</a>
 <a href="https://git-scm.com">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </a>
