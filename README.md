@@ -21,8 +21,4 @@ I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in S
 
 
 
-## Contact
-<div> 
-<a href="https://instagram.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: miguel_peters@estudante.sesisenai.org.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
