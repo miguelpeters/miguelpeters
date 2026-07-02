@@ -31,6 +31,10 @@ I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<a href="https://php.net/">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>
+</a>
+
 
 
 
