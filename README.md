@@ -2,7 +2,10 @@
 
 ## About me
 
-I’m a 17-year-old Brazilian student currently pursuing a Technical Degree in Systems Development at SESI School.
+Sou estudante de Desenvolvimento de Sistemas integrado ao Ensino Médio no SESI/SENAI, com interesse em tecnologia, desenvolvimento web e criação de soluções digitais.
+
+Ao longo da minha formação, venho desenvolvendo conhecimentos em PHP, JavaScript, C++, HTML e CSS, além de práticas relacionadas a desenvolvimento de sistemas, bancos de dados e organização de projetos.
+Tenho interesse em transformar conhecimentos teóricos em aplicações práticas e estou sempre buscando aprimorar minhas habilidades por meio de projetos acadêmicos e pessoais, explorando novas tecnologias e boas práticas de desenvolvimento.
 
 
 ## Current Learning
